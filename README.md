@@ -1,5 +1,7 @@
 # The AI-Augmented Investing
 
+## The main idea is to build instruments that will help to find market missjudgements
+
 Workflows and systems for value investing automation.
 
 ## Stage 1 AI screening of the market
