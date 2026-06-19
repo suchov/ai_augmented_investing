@@ -1,5 +1,8 @@
 # The AI-Augmented Investing
 
+1. First rule never loose money
+2. See the first rule
+
 ## The main idea is to build instruments that will help to find market missjudgements
 
 Workflows and systems for value investing automation.
