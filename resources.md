@@ -14,3 +14,6 @@ Integration/automation:
 https://github.com/openclaw/openclaw
 https://github.com/n8n-io/n8n
 
+https://www.quantconnect.com/
+https://www.nanalyze.com/2018/02/4-crowdsourced-hedge-funds-algorithmic-trading/
+https://numer.ai/
