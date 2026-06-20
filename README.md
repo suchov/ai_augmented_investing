@@ -115,4 +115,4 @@ AI critisyze your idea:
 
 Small Cap Value(200mln - 5bln), not in S&P 500
 
-Resources to [check](resources.m)
+Resources to [check](resources.md)
