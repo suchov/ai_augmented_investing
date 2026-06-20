@@ -1,15 +1,14 @@
-# The AI-Augmented Investing
+# The AI-Augmented Investing (Buffett system)
 
-1. First rule never loose money
-2. See the first rule
-
-## The main idea is to build instruments that will help to find market missjudgements
+## System that will help to find "special situation" and "fast growers" in med/small caps
 
 Workflows and systems for value investing automation.
 
-## Stage 1 AI screening of the market
+## Special situation investing
 
-### Daily market screening automation
+### Stage 1 AI screening of the market
+
+#### Daily market screening automation
 
 * P/E < 15
 * FCF Yield > 8%
@@ -32,9 +31,9 @@ Instruments:
 Results:
 Stocks search automation
 
-## Step 2 AI-analyst
+### Step 2 AI-analyst
 
-### AI agent for every company:
+#### AI agent for every company:
 
 Read:
 * 10K
@@ -42,7 +41,7 @@ Read:
 * Earnings Call
 * Investor Presentation
 
-### Answering:
+#### Answering:
 
 Business:
 * How company earns?
@@ -68,11 +67,11 @@ Valuation:
 
 Reults: instead of 8 hours reading get the summary in 10 min.
 
-## Step 3 watchlist checking
+### Step 3 watchlist checking
 
 AI is curating the whatchlist(portfolio).
 
-### Daily checking:
+#### Daily checking:
 
 * news
 * SEC filling
@@ -82,7 +81,7 @@ AI is curating the whatchlist(portfolio).
 
 And informs for making decisions
 
-## Step 4 special situations search
+### Step 4 special situations search
 
 * spin-offs
 * tender offers
@@ -98,7 +97,7 @@ Examples:
 * RIGL
 * microcaps
 
-## Step 5 AI Investment Committee
+### Step 5 AI Investment Committee
 
 AI critisyze your idea:
 
@@ -108,10 +107,12 @@ AI critisyze your idea:
 * permanent loss
 * what does the market misses, conclusion
 
-We are specializing on:
+## Fast growers search
 
-Small Cap Value(200mln - 5bln)
 
-Not in S&P 500
+
+## We are specializing on:
+
+Small Cap Value(200mln - 5bln), not in S&P 500
 
 Resources to [check](resources.m)
