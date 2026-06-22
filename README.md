@@ -138,7 +138,12 @@ moat, data moat, cost advantage)
 
 #### 4 AI Search for Long Runways
 
+* figure out market size for expansion
+* industry growth at 10%+ anually
+
 #### 5 Build a Compoite Ranking
+
+* combine the previous steps build the ranking and rank all companies
 
 Excellent buisness questions:
 1 Does the business have an identifiable consumer monopoly?
