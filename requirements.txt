@@ -1,0 +1,15 @@
+# Python dependencies for the AI-augmented investing scripts
+#
+# Install into your activated virtualenv with:
+#     pip install -r requirements.txt
+#
+# Note: the analyst script also requires the Claude Code CLI (`claude`),
+# which is NOT a pip package. Install it separately from https://code.claude.com
+# and log in once with `claude`. Check it with: claude --version
+
+# PDF text extraction (used by analyze_reports_cli.py)
+pypdf>=4.0
+
+# Anthropic API SDK — only needed if you use the API version of the analyst
+# script (analyze_reports.py). Not required for the CLI version. Uncomment if used.
+# anthropic>=0.40
