@@ -1,0 +1,30 @@
+# ACN — AI Analyst Summary
+
+*Source: ACN_ProResearch.pdf · via claude CLI (opus)*
+
+---
+
+## Business
+- **How it earns money:** Accenture is a global professional services firm (~799,000 employees, 120+ countries) selling strategy, consulting, digital, technology, and operations services. LTM revenue of $73.1B splits almost evenly between Consulting (~$36.0B) and Managed Services/Outsourcing (~$36.1B). Billing is increasingly fixed-price (>60% of revenue), but the core economics remain people-driven (FTE-based billable hours).
+- **Moat:** The report supports a moderate, relationship-and-scale moat rather than a structural one. Evidence: 91 of the Fortune Global 100 as clients, and **195 of top 200 clients retained 10+ years** — pointing to switching costs and brand/trust. It also cites deep capability-building (cybersecurity grew from ~$700M in FY16 to $10B in FY25, a 35% CAGR). No network effects or regulatory moat is claimed; the durability of the moat is genuinely in question given AI disruption risk (below).
+- **Competitors:** Cognizant (CTSH) and Capgemini (PGPE.F) are the named peers; the report also references Infosys, IBM, and broadly "traditional consulting firms, specialized tech companies, and hyperscalers" as competitive pressure.
+
+## Financials
+- **Growth rates:** Revenue CAGR (5y) = **9.47%** (vs CTSH 4.86%); Net Income CAGR (5y) = **8.49%**. Forward projections are lower: Revenue Forecast CAGR (5y) = 5.92%, Net Income Forecast CAGR (5y) = 8.43%. EPS analyst forecast growth is modest: FY26 +7.2%, FY27 +5.9%, FY28 +7.6%. Diluted EPS rose from $10.7 (2022) to $12.5 (LTM). Explicit FCF CAGR is **not covered in report**, though LTM operating cash flow is $13.2B and Q3 FCF was $3.6B (FY26 FCF guide $10.8–$11.5B, FCF/NI ratio ~1.3x).
+- **Returns on capital:** ROE **24.9%**, ROI **22.9%**, ROA **12.0%** — strong and well above peers (CTSH ROE 14.9%). No explicit ROIC figure is given, but returns are clearly high on a modestly capitalized, asset-light model.
+- **Balance sheet:** Healthy. Total equity $33.5B vs total debt $8.4B (LTM); "operates with a moderate level of debt." Note debt has climbed from ~$3.1B (2023) to $8.4B, and management flagged plans to tap long-term debt markets to fund ~$9B FY26 M&A — a watch item. Interest coverage is described as easily sufficient.
+
+## Risks
+- **Regulatory exposure:** Limited direct regulatory risk; the report frames data-privacy/AI-governance regulation as a demand tailwind rather than a threat. The Dragos/runZero/NetRise deal is pending regulatory approval (close Aug/Sep 2026).
+- **AI / technological disruption:** The most serious risk. The report explicitly warns that **agentic AI could automate billable consulting hours, compressing project timelines and disrupting the FTE-based revenue model faster than new work replaces it.** Management concedes clients are "spending differently (not necessarily more)" on AI. This is a genuine structural threat to the business model, partly offset by rising AI bookings (key AI-partner bookings on track to more than double vs FY25; 104 clients with $100M+ quarterly bookings YTD, +13%).
+- **Customer/supplier concentration:** Not a red flag — the client base is diversified with deep, long-tenured relationships. Some geographic/segment concentration in discretionary consulting.
+- **Other red flags:** (1) **Decelerating growth** — FY26 local-currency guidance cut to 3–4% (from 3–5%); consulting grew only 1% in local currency in Q3. (2) **Weak bookings** — new bookings −2% to $19.3B, **book-to-bill just 1.0**; ~$2B of managed-services deals slipped to FY27. (3) **Negative estimate momentum** — 19 of 27 analysts cut EPS estimates in 90 days; Growth Rating 4/10. (4) High dependence on discretionary IT spend, exposed to macro shocks (Middle East conflict ~$100M Q3 hit, federal ~1% drag). (5) Elevated M&A ($9B, up from $5B) raises integration/execution risk.
+
+## Valuation
+- **Fair value / upside:** Report's fair value **$236.9**, implying **+66.7%** upside from $142.1. Analyst median target $179.29 (~26% upside); range $130–$275.
+- **Cheap, fair, or rich:** Screens **cheap** on every metric — forward P/E ~10.1x, EV/EBITDA ~6.6x, P/B 2.73x, FCF yield 14.5%, dividend yield 4.59% — a dramatic de-rating from FY24 (P/E ~31x, EV/EBITDA ~19x). The stock is down ~52% from its ~$300 high. Given still-strong 25% ROE and ~$11B FCF, the multiple looks disconnected from current earnings power *if* earnings hold.
+- **Bull (what market may be missing):** A high-quality, cash-generative compounder trading at a deep-cyclical multiple; management is signaling conviction via a raised $7.5B buyback and $11.5B total returns (+38% YoY), buying back stock near lows. AI/cyber/mid-market (Accenture Edge, $240B TAM) offer reinvestment runways.
+- **Bear (what could go wrong):** The cheap multiple may be a value trap if agentic AI structurally erodes billable-hour economics — a low multiple on *declining* earnings isn't cheap. The negative PEG (−23.4) and universal analyst downgrades reflect fear that growth deceleration is secular, not cyclical. Rising debt + heavy M&A adds risk into a softening demand backdrop.
+
+## Verdict
+Yes — a patient value investor should dig deeper. This is a demonstrably high-return, asset-light, cash-rich franchise (25% ROE, ~$11B FCF, ~4.6% yield, aggressive buybacks) trading at ~10x forward earnings and ~6.6x EBITDA after a 50%+ drawdown, with management publicly stating the price doesn't reflect fundamentals. The entire thesis, however, hinges on one question: **is AI a tailwind that grows Accenture's book of work, or a disruptor that hollows out its FTE-based billing model?** The single most important thing to verify next is the durability of revenue and bookings under AI — specifically whether new AI/agentic bookings are genuinely *additive* to revenue or merely cannibalizing existing billable hours (watch book-to-bill returning above 1.0, consulting growth re-accelerating past 1%, and the FY27 outlook at the Oct 14 Investor Day). If demand is cyclical, this is a compelling entry; if it's a structural business-model erosion, the low multiple is a trap.

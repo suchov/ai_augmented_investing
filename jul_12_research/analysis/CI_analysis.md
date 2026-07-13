@@ -1,0 +1,34 @@
+# CI — AI Analyst Summary
+
+*Source: CI_ProResearch.pdf · via claude CLI (opus)*
+
+---
+
+## Business
+- **How it earns money:** Cigna operates two segments. **Evernorth** (~$241.4B of $277.9B LTM revenue) houses pharmacy benefit management (PBM), specialty pharmacy, and care services. **Cigna Healthcare** (~$45.7B) is employer-sponsored/commercial health insurance. Internally management frames three growth platforms: Specialty & Care Services (~35% of income, growing 8–12%), Pharmacy Benefit Services (~25%), and Cigna Healthcare (~40%). Note the razor-thin economics: gross profit margin is only ~9.15% (COGS $252.5B on $277.9B revenue) — this is a high-volume, low-margin drug/claims flow-through business, not a high-margin operator.
+- **Moat:** The report doesn't use the word "moat," but the evidence points to **scale-based cost advantage** in PBM/specialty pharmacy (Evernorth is one of the "big three" PBMs), plus modest **switching costs** (multi-year employer contracts, mid-90s client retention expected in '27) and some **data/technology** edge (540+ US patents, AI high-cost-claimant models saving ~$2,000/member/yr, #1 J.D. Power digital experience). The Signature rebate-free PBM model is an attempt to widen durability. Skeptically: "weak gross profit margins" and heavy client concentration argue the moat is narrower than the scale suggests.
+- **Competitors:** Peer benchmarks name **Elevance (ELV)** and **Chubb (CB — an odd non-health comp)**. In managed care/PBM the report references **Centene (CNC)** and **Oscar Health** as peers Barclays/BofA weigh against Cigna. (CVS/Caremark and UnitedHealth/OptumRx are the obvious PBM rivals but are Not explicitly covered in the report.)
+
+## Financials
+- **Growth rates:**
+  - Revenue CAGR (5y): **11.4%** (per peer table); forward revenue CAGR (5y) a much slower **4.18%**.
+  - EPS: analyst-projected **+1.9% FY26, +10% FY27, +10.3% FY28**. Historical diluted EPS is volatile ($21.4 in '22 → $17.4 '23 → $12.1 '24 → $22.2 '25), so no clean historical CAGR.
+  - **FCF CAGR: Not covered** (levered FCF is reported as 0.0 across years — a data gap). FCF yield is quoted at ~10.1–10.3%.
+  - Net income CAGR (5y) is actually **negative: -6.77%** — a red flag versus the headline revenue growth.
+- **Returns on capital:** ROE **15.3%**, ROI **13.2%**, ROA **4.44%**. No explicit ROIC. ROE is respectable but partly a function of leverage; the low ROA reflects the asset-heavy, thin-margin model.
+- **Balance sheet:** Total debt **~$30.9B** (≈$31.5B end-'25), debt-to-cap **42.3%** (improving ~70bps). Total equity $42.4B, book/share $160. Two explicit warnings: **"short-term obligations exceed liquid assets"** and interest coverage is adequate but not lavish ("cash flows can sufficiently cover interest payments"). Health is acceptable but not fortress-like; leverage constrains capital flexibility.
+
+## Risks
+- **Regulatory:** High. PBM oversight reform, drug-pricing legislation, and **FTC scrutiny** could pressure the highly concentrated PBM/specialty pharmacy earnings. Prior-authorization standardization (coordinated with HHS/CMS) cuts both ways — G&A savings but also erodes EviCore's rationale.
+- **AI / disruption:** Barclays flags Cigna as the **most at-risk managed-care name** — 73% employer-sponsored insurance exposure plus 23% tech-sector client concentration, against a thesis that AI could displace 50% of entry-level white-collar jobs (1–5 yrs), shrinking employer-sponsored membership. Cigna itself uses AI defensively (call reduction, claimant prediction).
+- **Customer/supplier concentration:** Significant — **~19% of 2025 revenue from a single PBM client.** Contract loss/renegotiation is a real tail risk. Membership already slipping: pharmacy customers 121.0M (Q1'26) vs 123.6M, total relationships 185.5M vs 188.4M.
+- **Other red flags:** PBS earnings down 28% YoY with a **$700–$800M FY26 headwind** from Signature transition; MCR creeping up (84.4% '25 vs 83.2% '24); CEO transition (Evanko in, July 1 '26) mid-transformation; BofA removed CI from its US 1 List; portfolio exits (individual exchange, EviCore review) with **no quantified capital-release/proceeds guidance**; 9% voluntary employee turnover; and Cigna dropping GLP-1 coverage for its own staff signals cost pressure in a rising-demand category.
+
+## Valuation
+- **Fair value / upside:** Report's fair value **$430.13, implying ~50% upside** from $286.6. Analyst consensus target **$340.50** (high $400, low $290) = ~20.6% upside — notably more conservative than the model's fair value.
+- **Cheap, fair, or rich:** Screens **cheap on nearly every multiple**: fwd P/E **9.34x FY26 / 8.75x FY27**, PEG **0.38**, EV/EBITDA 5.9x, P/S 0.27, FCF yield ~10%, P/B 1.77. Valuation has compressed from a 25.3x P/E in '24. The market is clearly pricing in the PBM headwinds and structural risks, not paying up for growth.
+- **What the market may be missing (bull):** Signature model gaining traction (mid-90s retention, wins secured), Specialty growing at the high end of 8–12%, biosimilar/generic mix lifting margins, aggressive buybacks (~$3.6B in '25 shrinking the share count 305.7M→264.5M), 45-yr dividend history, and prior-auth standardization worth ~$180–360M in savings by '28. If the PBM headwind is truly one-time transition cost, current EPS is trough-like.
+- **What could go wrong (bear):** The cheapness is a value trap if AI-driven job loss structurally shrinks employer membership, if the 19% PBM client walks, if PBM regulation compresses the core profit pool, or if the Signature transition costs run longer/deeper than the $700–800M guide. Negative 5-yr net-income CAGR and rising MCR suggest the compression may not be purely transitory.
+
+## Verdict
+Yes — a patient value investor should dig deeper. You're paying ~9x forward earnings and ~10% FCF yield for the #2/#3 PBM plus a growing specialty franchise, with heavy insider-style buybacks and a decades-long dividend, and both the model (50% upside) and the street (~21%) see the stock as undervalued. The setup is a classic "temporary headwind masking a cheap compounder" — *if* the PBM decline is genuinely transition-driven. The **single most important thing to verify next is the durability of the Evernorth PBM earnings base**: specifically, whether the ~19%-of-revenue single client and the broader book are actually being retained through the Signature rebate-free transition (the claimed "mid-90s retention" and secured wins), or whether the 28% PBS earnings drop is the leading edge of permanent margin compression from client losses and regulation. That distinction is the entire bull-vs-value-trap question, and the report asserts it without giving hard contract-retention numbers.

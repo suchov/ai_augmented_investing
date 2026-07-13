@@ -1,0 +1,30 @@
+# EPAM — AI Analyst Summary
+
+*Source: EPAM_ProResearch.pdf · via claude CLI (opus)*
+
+---
+
+## Business
+- **How it earns money:** EPAM is a global IT services / software-engineering firm (45+ countries) selling digital transformation, cloud, AI, and custom software development. Revenue (~$5.6B LTM) is diversified across verticals: Financial Services $1.4B (largest), Software & Hi-Tech $842M, Consumer Goods & Retail $818M, Emerging $703M, Healthcare $635M, Business Info & Media $503M. It positions on "the build" (engineering core products) at premium rates rather than commodity maintenance.
+- **Moat:** The report claims a reputational/brand moat — a "gold standard" for high-end engineering commanding premium positioning. This is soft and asserted, not quantified. Notably, gross margin is only 29.1% (below Cognizant's 33.5% and Grid Dynamics' 36.3%), and the SWOT concedes ROIC may have fallen below WACC — evidence *against* a durable moat. Switching costs from deep client integration are plausible but not documented in the report.
+- **Competitors:** Cognizant (CTSH) and Grid Dynamics (G) are the named peers; broader threat is offshore IT providers with lower labor costs. Cognizant is ~4–5x larger ($21.4B revenue).
+
+## Financials
+- **Growth rates:** Revenue CAGR (5y) 15.5% historical, but forward revenue CAGR (5y) only **4.75%** — a sharp deceleration. Net income CAGR (5y) 2.91%; net income *declined* 21.6% from '21 to '25 and net margin contracted ~46%. EPS: 2022 $7.09 → 2024 $7.84 → 2025 $6.72 → LTM $6.98 — essentially flat-to-down over four years. Growth rating just 4/10. (Note: forward EPS of $13.16 for FY26 vs. LTM diluted EPS of ~$7 is a large, unexplained jump — see Risks.)
+- **ROIC / returns:** ROE 10.9%, ROI 13.1%, ROA 8.2% — mediocre and below both peers (CTSH ROE 14.9%, G ROE 23.1%). SWOT explicitly flags ROIC possibly below WACC = potential value destruction. This is the most damning fundamental data point.
+- **Balance sheet:** Healthy. Cash exceeds debt (~$1.3B cash end of '25), total debt only $287.9M LTM, total equity $3.4B, liquid assets exceed short-term obligations. Book/share $63.4, P/B 1.37. Cash flow rating 7–8/10; operating cash flow $594M LTM. One caution: Q1 '26 operating cash flow was **negative $36.4M** and levered FCF −$54.2M, and total debt nearly doubled QoQ (143.7 → 287.9) — worth watching.
+
+## Risks
+- **Regulatory:** Modest direct exposure; the report frames AI regulation (EU AI Act) as an *opportunity* for compliance/governance services rather than a threat. Real regulatory risk is on the input side: US H-1B/L-1 visa policy threatening talent supply.
+- **AI / technological disruption:** The central bear thesis. AI coding assistants risk commoditizing software development and enabling clients to *insource* work, directly threatening the core revenue model. Barclays notes clients are deferring spend awaiting "deflationary" next-gen tech, raising terminal-value concerns. EPAM's own AI positioning is judged "competitive, not differentiated" (Wedbush) despite $125M AI-native revenue (+20% QoQ) and the Anthropic partnership.
+- **Concentration:** Vertical mix is reasonably diversified. Geographic/talent concentration was the historical risk (Ukraine); the company has redistributed to India (~20% of workforce) and Latin America. No single-customer concentration disclosed.
+- **Other red flags:** (1) Removed from S&P 500 in June '26 → forced index-fund selling. (2) Ongoing leadership transition at an inflection point. (3) Rising delivery costs in Poland/India compressing margins. (4) **Data-quality inconsistency in the report itself** — Q1 '26 EPS is stated as both $2.86 (executive summary) and $1.52 (income statement), and "EPS Actual 11.5" / forward EPS $13.16 clash with ~$7 diluted EPS. This discrepancy makes the headline "6.6x forward P/E" suspect and must be reconciled before trusting the valuation.
+
+## Valuation
+- **Fair value:** $138.38 (InvestingPro), implying **+53.3% upside** from $86.8. Median analyst target $142.82 (~56% upside); range $99 (Wedbush) to $235 (HSBC), but recent revisions skew bearish (Goldman $215→$110, Barclays to Hold).
+- **Cheap, fair, or rich:** On the surface, statistically cheap — fwd P/E 6.6x vs. historical 29–36x, EV/EBITDA 5.4x, P/B 1.37, FCF yield ~11.5%. But this is a classic value-trap setup: the multiple compressed *because* growth collapsed and returns may not cover cost of capital. Peers trade at similar low multiples (CTSH 9.3x, G 8.9x), so the cheapness is sector-wide, not company-specific mispricing.
+- **Bull (what market may miss):** Fortress balance sheet + aggressive buybacks + high shareholder yield; AI-native revenue inflecting (+20% QoQ, 80% of top-100 clients engaged); 12 of 19 analysts raised EPS; forced index selling may have overshot to the downside. If organic growth reaccelerates to peer ~7%, the multiple could re-rate meaningfully.
+- **Bear (what could go wrong):** Structural, not cyclical, decline — AI deflates the labor-arbitrage model, ROIC stays below WACC, "cheap" multiples never expand (Barclays), and guidance is back-half weighted (execution risk). The forward EPS assumption underpinning "6.6x" appears inflated versus actual run-rate.
+
+## Verdict
+Worth a look, but with heavy skepticism — this is a "cheap on paper" name where the low multiple reflects real deterioration (flat-to-down EPS over four years, ROIC possibly below WACC, forward growth cut to ~4.75%), not obvious mispricing. A patient value investor might dig deeper because of the genuinely strong balance sheet, double-digit FCF yield, and optionality if AI becomes a tailwind rather than a threat — but only after resolving the single most important question: **is the ~$13 forward EPS real, or a data artifact?** The report internally contradicts itself (Q1 EPS shown as both $2.86 and $1.52; LTM diluted EPS ~$7 vs. FY26 estimate $13.16). Reconcile actual normalized earnings power against the reported "6.6x forward P/E" before anything else — the entire undervaluation thesis rests on it.

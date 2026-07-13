@@ -1,0 +1,30 @@
+# CRM — AI Analyst Summary
+
+*Source: CRM_ProResearch.pdf · via claude CLI (opus)*
+
+---
+
+## Business
+- **How does it earn money?** Salesforce sells cloud-based enterprise software, predominantly on a per-seat subscription model. LTM revenue is $42.8B, of which the bulk (~$10.6B in the segment breakout) is Subscription & Support, with product clouds spanning Sales Cloud (~$6.9B), Service Cloud (~$7.5B), Salesforce Platform & Other (~$6.9B), Integration & Analytics (~$4.7B), and Marketing & Commerce (~$4.1B). Professional Services adds ~$2.1B. The company is now layering consumption-based AI revenue on top via Agentforce (>$1B ARR; combined AI+Data ARR $3.4B).
+- **Moat?** Yes — the report supports a wide moat rooted in **switching costs** (a "deeply embedded enterprise customer base") and **scale/brand** (#1 global CRM at ~20.7% share, exceeding Microsoft + Oracle + Adobe + SAP combined). There is an emerging **data/network** angle: Agentforce's "consumption flywheel" (top-10 AWU customers grew total spend 1.5x YoY) and Slack as a platform. Gross margin ~77.6% is consistent with a differentiated, sticky franchise.
+- **Competitors:** Microsoft, Oracle, SAP, and Adobe — all offering bundled/integrated alternatives — plus emerging specialized AI startups cited as a differentiation threat.
+
+## Financials
+- **Growth (report-stated):** Revenue CAGR (5y) **14.3%**; most recent revenue growth 11.0% (13% YoY in Q1 FY27). Net Income CAGR (5y) **12.9%**; Net Income growth 29.3%. Analyst EPS trajectory: $14.46 (FY27) → $15.84 (FY28) → $18.10 (FY29), i.e. ~10–16% forward EPS growth. **FCF CAGR: Not covered** as a multi-year figure, but near-term FCF growth guided at only **4–5% YoY** due to the debt-funded buyback. Revenue Forecast CAGR (5y) 10.1%.
+- **Returns on capital:** ROE 16.9%, ROI 10.7%, ROA 7.82%. No explicit ROIC given. **Owner's note:** these returns are unremarkable for an asset-light software firm and are dragged by the enormous equity base built from years of stock issuance and goodwill from ~two dozen acquisitions.
+- **Balance sheet:** Deteriorating on the surface. Total Debt jumped from $12.1B (FY25) to **$42.5B LTM** after the $25B debt offering funding the $50B buyback. Total Equity fell from $61.2B to $34.2B (buyback-driven). A Pro Tip flags **"short-term obligations exceed liquid assets."** Operating cash flow remains robust ($15.2B LTM; $6.7B in Q1), so leverage is serviceable, but the capital structure is materially more aggressive than a year ago. Book/share $41.8.
+
+## Risks
+- **Regulatory:** GDPR, EU AI Act, PIPL, and U.S. CLOUD Act cited as raising compliance costs and complexity for multinational deployments. Not company-specific litigation, but a rising cost of doing business.
+- **AI / technological disruption:** The central structural risk — **"seat compression."** Agentforce automates work previously done by human seats, directly threatening the per-seat subscription model that is the core revenue pillar. Double-edged: the same AI is the growth engine.
+- **Customer/supplier concentration:** Not covered in report (no single-customer concentration disclosed; government wins like the $5.6B Army IDIQ and $72M Air Force ELA are framed as diversification, not concentration).
+- **Other red flags:** (1) Aggressive M&A — Informatica (~$8.3B), Fin ($3.6B), ~two dozen deals since early 2025 — integration risk and questions about **organic** growth durability. (2) Persistent weakness in Commerce Cloud, Marketing Cloud, and Tableau through at least H1 FY27. (3) cRPO grew only in line with guidance (~13% CC), not a beat — usage KPIs (tokens, AWUs) are exploding but **not yet clearly translating into bookings acceleration.** (4) FCF guidance cut to 4–5% from the debt headwind.
+
+## Valuation
+- **Fair value:** $250.8 vs. current $169.5 → **+47.9% implied upside.** Analyst median target $246.44 (~40.5% upside); range $160–$475.
+- **Cheap, fair, or rich?** On the report's numbers it looks **cheap**: forward P/E 11.5 (FY27) falling to 10.5 (FY28), PEG 0.5, FCF yield 10.6%, EV/EBITDA 12.5 — a steep de-rating from historical P/E (105x in 2024, 55x in 2025). The stock is down ~33% YTD near its 52-week low. **Skeptical read:** a 10–12x P/E on a franchise this dominant either signals a bargain or signals the market disbelieves the growth durability (seat compression + soft segments). The EPS "beat" and buyback-driven 10% share-count reduction flatter per-share figures — GAAP net income growth is real but partly financially engineered.
+- **Bull (what market may be missing):** ~$5B Anthropic stake not reflected in market cap; Agentforce/AI+Data ARR ramping fast; Slack projected as a potential $10B cloud; 24 of 35 EPS revisions upward; premium SKU bookings +60% YoY; net-new AOV outpacing total AOV for the first time in three years (leading indicator of H2 reacceleration).
+- **Bear (what could go wrong):** Seat compression erodes the core model; underlying organic growth is decelerating (revenue growth 11% vs. 14.3% 5y CAGR) and propped up by M&A; cRPO not beating; FCF growth cut to 4–5%; balance sheet leveraged up; macro/IT budget tightening delays the reacceleration the whole bull thesis rests on.
+
+## Verdict
+Yes — a patient value investor should dig deeper. You have a genuinely dominant, cash-generative franchise (~77% gross margins, $15B LTM operating cash flow, #1 share) trading at ~11x forward earnings and a 10.6% FCF yield, with a credible catalyst in agentic AI. That is exactly the kind of "great business, out-of-favor price" setup value investors hunt for. But the discount exists for a reason, and the single most important thing to verify next is whether **AI monetization is genuinely additive or cannibalistic** — i.e., does the exploding usage (tokens +152% QoQ, AWUs +111%) actually convert into accelerating **cRPO and organic revenue**, or does Agentforce compress seats faster than consumption revenue replaces them? cRPO grew only in line, not ahead, of guidance despite spectacular usage metrics — resolve that disconnect (net revenue retention, organic vs. acquired growth, seat trends) before underwriting the $250 fair value.

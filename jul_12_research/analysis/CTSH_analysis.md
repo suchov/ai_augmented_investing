@@ -1,0 +1,30 @@
+# CTSH — AI Analyst Summary
+
+*Source: CTSH_ProResearch.pdf · via claude CLI (opus)*
+
+---
+
+## Business
+- **How does it earn money?** Cognizant is a global IT services firm providing digital transformation, AI, cloud, and managed services to enterprises. LTM revenue is $21.4B across four segments: Financial Services ($6.4B), Healthcare ($6.4B), Products & Resources ($5.3B), and Communications/Media & Tech ($3.4B). The historical model rests heavily on labor arbitrage (billable hours), which the report repeatedly flags as under structural pressure from AI.
+- **Moat?** The report implies a modest, eroding moat rather than a durable one. The strongest stated advantage is **switching costs / client stickiness** from "deep domain expertise in financial services, healthcare, and life sciences" and large multi-year deals (1.4x book-to-bill, TTM bookings $29.6B). It is a "prominent player in the IT Services industry." But there is no evidence of network effects, brand pricing power, or a cost advantage that AI cannot erode — indeed the labor-arbitrage cost model is explicitly threatened.
+- **Competitors:** Accenture (ACN), TCS, Infosys, IBM, Capgemini, and EPAM (used as a peer). The report notes some rivals have "superior AI capabilities or scale."
+
+## Financials
+- **Growth rates:** Revenue CAGR (5y) 4.86%; Net Income CAGR (5y) 9.88%. Forward projections: Revenue Forecast CAGR (5y) 4.42%; Net Income Forecast CAGR (5y) 8.90%. EPS growth guided at 7–9% for FY26 ($5.63–$5.77), with analysts modeling 7.9% (FY26) → 8.6% (FY27) → 9.8% (FY28). FCF CAGR: **Not explicitly covered** (the FCF table rows read $0.0, likely a data artifact); CFO noted ~$2.5B annual FCF generation and ~12% FCF yield.
+- **ROIC / returns on capital:** No true ROIC given. Proxies: ROE 14.9%, ROI 15.3%, ROA 11.0% — decent but below Accenture (ROE 24.9%). Profitability rating 7.5/10.
+- **Balance sheet:** Healthy. Total debt only $1.09B against $15.1B equity and $7.8B current assets vs $3.5B current liabilities. "Moderate level of debt," interest well covered, liquid assets exceed short-term obligations. Book value $31.5/share vs $42 price. This is a conservatively financed, cash-generative business.
+
+## Risks
+- **Regulatory / geopolitical:** Data localization / sovereign-AI requirements, trade-policy uncertainty, and geopolitical instability raise compliance cost and complexity across global delivery. Products & Resources segment already pressured by trade policy.
+- **AI / technological disruption — the central risk:** AI is creating "deflationary pressure on billable hours." Berenberg's downgrade thesis is that AI model makers pushing downstream could relegate legacy IT vendors to "lower-margin commodity work." This directly attacks the labor-arbitrage model. Note the two-sided nature: AI also cuts code-refactoring cost from ~$10 to ~$1.50/line, potentially unlocking modernization demand.
+- **Customer / supplier concentration:** No single-customer concentration cited, but **heavy North American market concentration** is flagged as a weakness. Health Sciences took a ~300bps hit from lower third-party product revenue.
+- **Other red flags:** 17 downward EPS revisions in 90 days with **zero** upward — deteriorating analyst confidence; gross margin fell 80bps YoY; Q1 net income was oddly low in Q3 2025 ($274M vs ~$650M other quarters — unexplained); "Strong Sell" technicals; $230–320M restructuring charges (mostly severance) adjusted out of non-GAAP; ACV flat as deal duration lengthens, signaling slow near-term revenue conversion.
+
+## Valuation
+- **Fair value:** $68.53, implying **+63.2% upside** from $42. Analyst average target $67.54 (range $42–$88). Forward P/E 7.38x (FY26) / 6.93x (FY27) vs historical 17–19x; EV/EBITDA ~5.0x; P/B 1.32x; FCF yield ~12%.
+- **Cheap, fair, or rich?** On the numbers presented, statistically **cheap** — the stock has de-rated ~50% while EPS is still growing 7–9% and the balance sheet is clean. It also trades cheaper than peers ACN (10.8x) and EPAM (11.9x). The key question is whether the low multiple reflects a value trap (permanent AI-driven earnings impairment) rather than a mispricing.
+- **Bull (what market may miss):** Record bookings (+21% YoY, 1.4x book-to-bill, a >$500M mega-deal) point to H2 2026 revenue acceleration the depressed multiple ignores; Project Leap ($200–300M savings) supports margin expansion to 16.0–16.2%; strong shareholder return ($1.6B planned for 2026, six years of dividend growth, 3.14% yield); insider open-market buying. If AI becomes a modernization tailwind rather than only a deflationary headwind, re-rating potential is large.
+- **Bear (what could go wrong):** AI structurally compresses billable hours and pricing faster than Cognizant can pivot to outcome/tokenized models, capping growth in low single digits permanently; margin recovery depends entirely on Project Leap execution; sector-wide de-rating (triggered by Accenture's cut) persists; "no near-term catalysts."
+
+## Verdict
+Yes — a patient value investor should want to dig deeper. This is a debt-light, cash-generative, buyback-heavy business trading at ~7x forward earnings and ~12% FCF yield with growing bookings, which is precisely the kind of out-of-favor situation that rewards owner-minded patience *if* the earnings power is intact. But the entire thesis hinges on one binary question: **is AI a headwind that permanently deflates Cognizant's revenue-per-employee model, or a tailwind that expands its addressable modernization work?** The single most important thing to verify next is whether the record bookings and 1.4x book-to-bill actually convert into revenue *growth and stable margins* in H2 2026 and beyond — i.e., is total contract value translating to profitable realized revenue, or is deal-duration lengthening and AI-driven price deflation quietly hollowing out the backlog's economics? Everything else is secondary to that.

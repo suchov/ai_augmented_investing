@@ -1,0 +1,30 @@
+# INTU — AI Analyst Summary
+
+*Source: INTU_ProResearch.pdf · via claude CLI (opus)*
+
+---
+
+## Business
+- **How it earns money:** Intuit sells financial software across four areas — Consumer/tax (TurboTax), Global Business Solutions (QuickBooks + Mailchimp), personal finance (Credit Karma), and professional tax. LTM revenue is $20.9B, split roughly Consumer ~$10.9B, Global Business Solutions ~$12.3B, Credit Karma ~$1.2B, and Pro Tax ~$310M (note these segment figures sum above total revenue in the report; treat as approximate). Model is recurring/subscription software plus transaction-based revenue (payments, "Fast Money," Credit Karma referral fees). TurboTax Live (assisted tax) is now 53% of TurboTax revenue and growing 36% YoY.
+- **Moat:** Yes, and a wide one per the report. QuickBooks holds ~80% U.S. SMB accounting share and TurboTax ~60% DIY tax share. Sources cited: **switching costs** (accounting data lock-in), **network effects** (deep accountant network, ~1M accountants), and **brand**. Gross margin of ~80.8% corroborates pricing power. But the moat is under active attack (see Risks).
+- **Competitors:** SMB accounting — Xero, Sage, FreshBooks, Zoho. Tax — IRS Direct File and AI-native entrants (Prime Meridian, Perplexity Tax, Chime Tax). Peer benchmarks compare against MSFT and ACN.
+
+## Financials
+- **Growth (report/derived):** Revenue CAGR (5y) 19.7%; Net Income CAGR (5y) 16.2%. LTM revenue $20.9B (+15.1%); FY26 guided to 13–14% growth. Diluted EPS rose from $7.28 (FY22) to $16.4 (LTM); non-GAAP FY26 EPS guided ~18% growth to $23.80–23.85. Forward EPS growth: FY27 +14.7%, FY28 +13.1%. **FCF CAGR: Not explicitly given** (the "Levered Free Cash Flow" table rows read 0.0 except Q3 FY26 at $5,236M — appears to be a data artifact); however, cash from operations grew from $3.9B (FY22) to $7.9B (LTM), and FCF yield is quoted at ~10.1%.
+- **Returns on capital:** ROE 22.5%, ROI 17.0%, ROA 12.1%. No explicit ROIC given, but returns are strong and above cost of capital. Profitability rating 8/10.
+- **Balance sheet:** Healthy. Total debt $6.9B against total equity $20.6B and total assets $39.3B; ~$6.8B cash and investments. Report calls it "moderate level of debt." Perfect Piotroski Score of 9. Net debt is roughly neutral. Aggressive buybacks ($1.6B in Q3, +60% YoY) and 15-year dividend growth streak (15% raise) signal comfortable cash generation.
+
+## Risks
+- **Regulatory:** IRS Direct File expansion is a direct structural threat to the lower-income DIY tax segment, compounding a ~30 bps decline in total IRS filers this season.
+- **AI / technological disruption:** The central bear thesis. Goldman estimates AI can process a return for **$0.12 vs. TurboTax's $162 blended ARPU**, and models TurboTax revenue ~18% below FY25 levels by 2030 if 20% of filers migrate to AI-only tools. TurboTax is ~25% of revenue and operating income. Management counters that 88% of the tax TAM is *assisted* — customers buy "confidence" and liability delegation, not just software — and frames the DIY weakness as a *pricing* problem (sub-$50K filers "lost on price"), not AI.
+- **Customer/supplier concentration:** Not covered in report (no single-customer concentration flagged; business is broad SMB/consumer).
+- **Other red flags:** (1) Mailchimp revenue down ~21% and being "right-sized" — the acquisition thesis has not materialized. (2) A 17% workforce cut (3,000+ employees) with $300–340M in charges signals the cost structure was misaligned with growth — execution risk. (3) Management's reluctance to reaffirm long-term targets; Stifel expects TurboTax targets cut to 4–6% (from 6–10%) and GBS to 10–15% (from 15–20%). (4) TurboTax grew only 7% in FY26 with online paying units up just 2%. (5) Severe sentiment collapse: stock -63.7% over one year, -46% YTD.
+
+## Valuation
+- **Fair value / upside:** Report's fair value estimate is **$442.60 vs. $281.20 price → +57.4% upside**. Analyst average target ~$487 (range $275–$921), implying wide disagreement.
+- **Cheap, fair, or rich:** On its face, statistically **cheap**: forward P/E 11.2x (FY26) / 9.8x (FY27) vs. historical 58–64x, PEG 0.5, FCF yield ~10%, EV/EBITDA compressed from ~41x to ~8x. 26 upward EPS revisions, zero down. For a business with 80% gross margins and ~20% historical revenue CAGR, these are distressed-tier multiples — *if* the growth durability holds.
+- **What the market may be missing (bull):** Multiple compression this severe prices in near-permanent impairment of the tax franchise; meanwhile TurboTax Live (+38% customers) is winning the far larger $37B assisted TAM, mid-market Intuit Enterprise Suite (+37% QoQ contracts, ~$90B TAM) is early, and an August platform launch with consumption-based AI pricing could open new revenue. Capital return is aggressive.
+- **What could go wrong (bear):** If AI-native tax genuinely commoditizes returns and IRS Direct File erodes the DIY base, ~25% of profit is structurally impaired; the pivot to "value-based pricing" could compress ARPU; Mailchimp keeps bleeding; and the low multiple may prove *correct* rather than cheap — the two Sell/Hold downgrades ($275–276) sit right at today's price.
+
+## Verdict
+Yes — a patient owner should dig deeper. This is a genuinely high-quality, moaty, cash-generative franchise (80% margins, Piotroski 9, ROE 22.5%, net-cash balance sheet) trading at ~11x forward earnings after a 63% drawdown, which is exactly the kind of "great business, temporarily hated" setup value investors hunt for. But the discount exists for a real reason, not a false one, so the thesis lives or dies on one question. **The single most important thing to verify next: is the DIY tax weakness truly a fixable pricing/packaging problem (management's claim), or the leading edge of AI-driven commoditization of the ~25%-of-profit TurboTax franchise (Goldman's claim)?** Concretely, watch the September analyst day for whether management cuts long-term TurboTax/GBS targets, and track TurboTax Live ARPU and paying-unit trends — if assisted revenue keeps compounding while DIY re-prices, the bull case is intact; if paying units keep stalling, the cheap multiple is a value trap.

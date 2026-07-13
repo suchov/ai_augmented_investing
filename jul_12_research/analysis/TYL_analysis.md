@@ -1,0 +1,30 @@
+# TYL — AI Analyst Summary
+
+*Source: TYL_ProResearch.pdf · via claude CLI (opus)*
+
+---
+
+## Business
+- **How does the company earn money?** Tyler Technologies sells integrated software and services exclusively to U.S. government/public-sector entities (local & state governments, courts, public safety, school districts). Q1'26 revenue of $613.5M breaks down into recurring streams — SaaS ($222M), Transaction Fees ($207M), Maintenance ($109M) — plus Professional Services ($61M). ~88% of revenue is recurring (targeting 90%+), and the model is shifting from on-premise licenses to cloud/SaaS on AWS.
+- **Does it have a moat?** Yes — a strong one built primarily on **switching costs** and **domain expertise**. Mission-critical ERP/court/public-safety/tax systems produce a 98% client retention rate sustained over 28 years, with ~50,000 installations across 16,000 client locations (22 of the 25 largest counties, all 25 largest cities). There is also a **regulatory/scale** element (deep public-sector specialization generic vendors can't easily replicate) and an emerging **data** angle (Socrata "judicial intelligence").
+- **Main competitors?** Oracle, SAP, Infor, and cloud-native niche players such as CivicPlus and Accela — pressure concentrated in permitting, licensing, and specialized departmental software.
+
+## Financials
+- **Growth (from peer table & report):** Revenue CAGR (5y) 15.9%; Net Income CAGR (5y) 10.1%. Forward: Net Income Forecast CAGR (5y) 25.8%; Revenue Forecast CAGR (5y) ~9.0%. EPS growth per analyst forecasts: FY26 +13.6%, FY27 +14.8%, FY28 +15.6% ($12.95 → $17.03). FCF CAGR is not explicitly given, but FCF more than doubled YoY in Q1'26 ($102.8M) and management targets $1B+ FCF by 2030.
+- **ROIC / returns on capital:** ROE 8.93%, ROI 8.09%, ROA 6.32% — notably modest and, in fact, *below* peer CRM (ROE 16.9%) and roughly in line with ROP (ROE 9.01%). For a "dominant moat" business, these returns are unimpressive and worth scrutiny (large goodwill from acquisitions likely depresses them).
+- **Debt / balance sheet:** Reported as "moderate debt." The LTM balance sheet shows Total Debt collapsing to $48M (from ~$640M), while a $1.44B convertible notes offering (0.50% due 2031) was just closed — so the reported figure appears to predate the raise. Post-raise, leverage and complexity rise materially. Equity $3.56B, Piotroski Score a perfect 9, and cash flows comfortably cover interest. No dividend.
+
+## Risks
+- **Regulatory / budget exposure:** High. 100% public-sector concentration means government budget cuts, political shifts, or federal policy changes (report flags "DOGE-related uncertainty") can delay procurement and compress bookings. Evolving AI/data-privacy regulation could raise compliance costs.
+- **AI / technological disruption:** Two-sided. AI is an opportunity (Tyler AI Foundry, Document Automation — Miami-Dade deal tripled to ~$800K), but monetization is explicitly "early-stage," a "slower ramp," and "TBD" — no near-term revenue guidance. Risk that cloud-native competitors move faster.
+- **Customer / supplier concentration:** Customer base is diversified across 16,000 locations, so no single-customer risk, but there is heavy **sector** concentration in government. Supplier-side reliance on AWS (8-year Strategic Collaboration Agreement) and Microsoft.
+- **Other red flags:** 19 of 22 analysts revised EPS *down* in the past 90 days — a significant signal. Convertible-note dilution risk (effective conversion ~$655.77 via capped calls). SaaS "flip" activity is lumpy and doesn't peak until 2027–2029. Cybersecurity risk as critical infrastructure (a breach occurred in 2020). Simultaneous integration of FTR, Socrata, and CSI adds operational complexity.
+
+## Valuation
+- **Fair value / upside:** Report's Fair Value $449.80 vs. price $318.10 → **+41.4% upside**. Analyst consensus median target $437.52 (high $543, low $335) → ~36.7% upside. Recent ratings skew Buy.
+- **Cheap, fair, or rich?** Optically **rich** on trailing metrics (P/E 42.5, EV/EBITDA 28.9, PEG 4.61, P/B 3.77 — all well above peers ROP and CRM), but the story is multiple *compression*: forward P/E falls to 24.6x (FY26) and 21.3x (FY27) as EPS growth accelerates. FCF yield 5.13% is the most reassuring absolute figure. Net: fair-to-expensive; the bull case rests entirely on forward estimates holding.
+- **What the market may be missing (bull):** A statewide DMV titling win worth $20M+/yr (starting H1'27) isn't in current SaaS bookings, understating true momentum; cross-sell runway from ~3 to 10–12 products per customer within a captive base; $150B+ growth in state/local IT spend; and the convert raise interpreted as prepping for larger accretive M&A.
+- **What could go wrong (bear):** Stock is down ~46% over one year / ~36% over six months for a reason — the 19 downward revisions, lumpy near-term bookings, multi-year SaaS-flip timing, unproven AI monetization, and convert dilution. If FY26/27 estimates prove optimistic, the "compression" thesis evaporates and a 24x forward multiple is not cheap.
+
+## Verdict
+Yes — a patient value investor should want to dig deeper. This is a genuine wide-moat franchise (98% retention over 28 years, ~88% recurring revenue, mission-critical government software) trading roughly 46% off its highs with a claimed 41% margin to fair value, a perfect Piotroski score, and a 5.1% FCF yield. But the skeptical owner's eye lands on two things that don't square with "dominant moat": *the low returns on capital* (ROE ~9%, ROA ~6%) and *the wave of downward EPS revisions* (19 of 22 analysts). The single most important thing to verify next is **whether the forward EPS estimates that make the stock look reasonable ($12.95 → $17.03) are actually achievable** — specifically, the real cash pace of on-premise-to-SaaS "flips" and bookings strength, since management conspicuously declined to quantify flip progress or AI revenue. If those forward numbers are as soft as the revisions imply, the "cheap on forward P/E" case collapses.
