@@ -34,7 +34,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-FOLDER = Path("/Users/artemsychov/projects/ai_augmented_investing/jul_12_research/")
+FOLDER = Path("/Users/artemsychov/projects/ai_augmented_investing/aug_2_research/")
 OUT_DIR = FOLDER / "analysis"
 DEFAULT_MODEL = "opus"          # opus | sonnet | haiku — sonnet/haiku are cheaper/faster
 STDIN_CAP_BYTES = 9_500_000     # stay under Claude Code's ~10MB piped-stdin cap
