@@ -141,7 +141,7 @@ moat, data moat, cost advantage)
 * figure out market size for expansion
 * industry growth at 10%+ anually
 
-#### 5 Build a Compoite Ranking
+#### 5 Build a Companite Ranking
 
 * combine the previous steps build the ranking and rank all companies
 
