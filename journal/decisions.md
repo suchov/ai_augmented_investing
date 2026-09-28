@@ -103,3 +103,17 @@ Rule: no reallocation without a named alternative that clears the BRK.B benchmar
 - **review_date:** дата першої перевірки тези
 
 ---
+
+## 2026-09-28 · PASS · WSE
+
+- **decision:** pass
+- **mispricing_category:** — (market drop due to the leagal issues and rewoke licence risk)
+- **thesis:** maybe a good business but too much reputation risks and hiding information during IPO listings
+- **must_be_true_to_buy:** nothing - we can't buy shady things
+- **kill_criteria:** —
+- **confidence:** not sure as management is not trust worthy < BRK.B
+- **emotional_state:** a shame - it's a good business, but I need to be consistent
+- **revisit_if:** management change and reputation shift(difficult taks)
+- **review_date:** 2027-02-01
+
+---
