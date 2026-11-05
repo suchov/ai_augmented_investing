@@ -1,14 +1,16 @@
-# Інвестиційна політика (Investment Policy Statement)
+# Investment Policy (Investment Policy Statement)
 
-**Версія:** 0.3 (чернетка)
-**Дата:** 2026-11-05
-**Статус:** принципи в розділах 1–2 сформульовані мною (власник); правила з позначкою **[ВИРІШИТИ]** ще не обрані; позначка **(пропозиція)** означає, що це запропоновано Claude і потребує мого підтвердження.
+**Version:** 0.3 (draft)
+**Date:** 2026-11-05
+**Status:** principals in parts 1–2 made by me; rules with mark **[SOLVE]** not finalized
+yet; mark **(proposel)** means, it's suggested by Claude and requires my confirmation.
 
 ---
 
-## 1. Філософія (мої слова)
+## 1. Philosophy
 
-Купувати хороші бізнеси, коли ціна тимчасово просіла (запас міцності), без боргового ризику, з хорошим менеджментом і потенціалом зростання. Бізнеси мають мати moat. Продавати, коли теза спрацювала, і вкладати в наступну ідею.
+Buy a good businesses, when the price is temporary down(margin of safety), without debt risks,
+with the good management and growth potential. Бізнеси мають мати moat. Продавати, коли теза спрацювала, і вкладати в наступну ідею.
 
 Довгострокова мета: інвестування як основна діяльність.
 
